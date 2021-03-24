@@ -10,3 +10,6 @@ How to use
 Dependency
 
 https://github.com/pystardust/ytfzf
+
+You can switch to main branch to download video 
+
