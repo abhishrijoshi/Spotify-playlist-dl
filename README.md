@@ -10,3 +10,5 @@ How to use
 Dependency
 
 https://github.com/pystardust/ytfzf
+
+You can switch to music branch to download only music
