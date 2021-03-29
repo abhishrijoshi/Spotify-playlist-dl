@@ -5,7 +5,9 @@ How to use
 
 1.You can use some website to extract the playlist info 
  i used this https://watsonbox.github.io/exportify/ to get the archive of the playlist 
+if using this make sure to check the settings and include artist data and include audio features data 
 2.Then just extract it and run the script 
+
 
 Dependency
 
